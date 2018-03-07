@@ -27,7 +27,7 @@ weight = 5
   year = 2012
 
 [[education.courses]]
-  course = "Ba in Natural Sciences (Physics)"
+  course = "BA in Natural Sciences (Physics)"
   institution = "Cambridge University"
   year = 2008
  
