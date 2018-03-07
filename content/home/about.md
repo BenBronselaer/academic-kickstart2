@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Climate",
+    "Southern Ocean",
+    "Ocean Biogeochemistry"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Ocean Climate Physics"
+  institution = "Oxford University"
+  year = 2016
+
+[[education.courses]]
+  course = "MSci in Physics"
+  institution = "Cambridge University"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "Ba in Natural Sciences (Physics)"
+  institution = "Cambridge University"
   year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am currently a Postdoc at GFDL under the Southern Ocean Carbon and Climate Observations and Modeling project (SOCCOM). My general interests centre around constraining uncertainty of future climate projections. I'm working on the role of the Southern Ocean ice sheet melt and wind changes in current and future climates. Recently, I studied air-sea carbon fluxes in the Southern Ocean, ocean carbon inventories, Ocean Revelle Buffer factor changes in oxygen minimum zones, ocean heat redistribution and ocean anthropogenic carbon uptake in observations and climate models.
